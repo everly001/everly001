@@ -12,5 +12,5 @@
 ### 📫 How to reach me:
 📧 everlyeverly@protonmail.com
 
-### Stats:
+### 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everly001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
