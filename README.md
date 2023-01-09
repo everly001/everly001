@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-💻 I'm a Python developer.</br>
+💻 I'm a Full Stack developer.</br>
 📍 Based in London, UK.</br>
 🌱 Currently working on uplevelling my Javascript.</br>
 
